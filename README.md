@@ -1,3 +1,7 @@
+# 모여 웹
+- 모여 노션 페이지에 연결합니다
+- 네이버 검색결과에 노출하기 위해서 프로젝트를 생성했습니다
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
