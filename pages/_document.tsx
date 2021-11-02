@@ -29,12 +29,9 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <Head>
-            <title>모여</title>
-            <meta name="description" content="모여. 모임과 공간을 연결하다." />
-            <link rel="icon" href="/favicon.ico" />
-            {this.props.styles}
-          </Head>
+          <meta name="description" content="모여. 모임과 공간을 연결하다." />
+          <link rel="icon" href="/favicon.ico" />
+          {/* this.props.styles */}
         </Head>
         <body>
           <Main />
