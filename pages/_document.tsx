@@ -30,6 +30,8 @@ class MyDocument extends Document {
       <Html>
         <Head>
           <meta name="description" content="모여. 모임과 공간을 연결하다." />
+          <meta name="og:title" content="모여" />
+          <meta name="og:description" content="모여. 모임과 공간을 연결하다." />
           <link rel="icon" href="/favicon.ico" />
           {/* this.props.styles */}
         </Head>
